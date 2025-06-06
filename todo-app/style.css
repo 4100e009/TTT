@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  font-size: 18px;
   background: #f2f2f2;
   display: flex;
   justify-content: center;
@@ -10,17 +11,24 @@ body {
   background: white;
   padding: 20px;
   border-radius: 10px;
-  width: 300px;
+  width: 500px;
 }
 
 input {
-  width: 70%;
-  padding: 8px;
+  width: 75%;
+  padding: 12px;
   margin-right: 5px;
+  font-size: 16px;
 }
 
 button {
-  padding: 8px;
+  padding: 12px;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
 }
 
 ul {
@@ -29,7 +37,8 @@ ul {
 }
 
 li {
-  padding: 5px 0;
+  padding: 8px 0;
   display: flex;
   justify-content: space-between;
+  font-size: 18px;
 }
