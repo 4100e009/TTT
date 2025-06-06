@@ -42,3 +42,13 @@ li {
   justify-content: space-between;
   font-size: 18px;
 }
+
+.buy {
+  margin-left: 10px;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.delete {
+  margin-left: 5px;
+}
